@@ -1,1 +1,1 @@
-# power-bi
+# Developed a comprehensive Power BI dashboard to analyze and visualize critical metrics for two-wheeler hardware parts, including Parts Per Million (PPM) defect analysis, cost impact assessment, and quantity trends. The dashboard provided actionable insights by integrating data from  Excel, enabling stakeholders to monitor performance, identify cost-saving opportunities, and track production efficiency. Emphasized dynamic filtering, real-time updates, and interactive visuals to support decision-making and enhance operational transparency.
